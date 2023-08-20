@@ -1,3 +1,13 @@
+# Fork changes
+
+* Modified Keychron V6 firmware and Vial Keymap to:
+* Enable NUM_LOCK backlight
+* Enable all RGB modes
+* Add DEBOUNCE_TYPE = sym_eager_pk
+* Increase scanning frequency to 50000 (from 10000)
+
+<hr/>
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
